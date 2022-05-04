@@ -1,0 +1,5 @@
+item_type,item_id,item_abbreviation,item_name,variation_id,variation_type,variation_name,pricing_type,track_inventory,stockable,sellable,price_amount,price_currency
+ITEM,bike1,mbike,Mountain Bike,fullsus,ITEM_VARIATION,Full Suspension Mountain BIke,FIXED_PRICING,TRUE,TRUE,TRUE,10000,CAD
+ITEM,bike1,mbike,Mountain Bike,htail,ITEM_VARIATION,Hard Tail Mountain Bike,FIXED_PRICING,TRUE,TRUE,TRUE,5000,CAD
+ITEM,bike1,mbike,Mountain Bike,nosus,ITEM_VARIATION,No Suspension Mountain Bike,FIXED_PRICING,TRUE,TRUE,TRUE,1000,CAD
+ITEM,bike2,gbike,Gravel Bike,nosus,ITEM_VARIATION,No Suspension Gravel Bike,FIXED_PRICING,TRUE,TRUE,TRUE,6000,CAD
